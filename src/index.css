@@ -1,0 +1,43 @@
+.img_margin{
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.card_style{
+    background-color: #323233;
+    border-radius: 60px;
+    overflow: hidden;
+    height: 650px;
+   
+}
+.card_border{
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-right: 15px;
+    background-color: #323233;
+    color: white;
+    /* padding: 30px; */
+}
+
+.oweflov_y{
+    overflow-y: scroll;
+    height:650px  ;
+}
+
+.bacground{
+    background-color: #63636a;
+    width: 100%;
+}
+
+.title_single{
+    margin: 40px;
+    /* margin-bottom: 30px; */
+}
+
+.brend{
+    background-color: #202024;
+    margin-top: 20px;
+    height: 400px;
+}
